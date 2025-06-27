@@ -68,7 +68,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       suppressHydrationWarning
     >
       <head>
-<script defer src="https://analysis.weekend.network/script.js" data-website-id="0c8ec17b-b315-4c58-8ab0-12190cf89901"></script>
+<script defer src="https://analysis.weekend.network/script.js" data-website-id="0fb847d1-03e0-41ec-84e6-56f447e2f971"></script>
       </head>
       <link
         rel="apple-touch-icon"
